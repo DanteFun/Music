@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Manager"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="管理" />
+
+    <item
+        android:id="@+id/Music_List"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="歌曲列表" />
+
+    <item
+        android:id="@+id/Playing"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="正在播放" />
+
+</menu>
